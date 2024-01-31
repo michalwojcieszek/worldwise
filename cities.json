@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Elbasan",
       "country": "Albania",
       "emoji": "🇦🇱",
@@ -37,18 +25,6 @@
       "id": 98443218
     },
     {
-      "cityName": "Teruel",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-22T18:07:10.686Z",
-      "notes": "",
-      "position": {
-        "lat": "40.29628609050974",
-        "lng": "-1.0079947800902647"
-      },
-      "id": 98443219
-    },
-    {
       "cityName": "Bydgoszcz",
       "country": "Poland",
       "emoji": "🇵🇱",
@@ -59,18 +35,6 @@
         "lng": "18.034601997931507"
       },
       "id": 98443220
-    },
-    {
-      "cityName": "Kleczew",
-      "country": "Poland",
-      "emoji": "🇵🇱",
-      "date": "2023-12-23T08:43:52.847Z",
-      "notes": "bylo super",
-      "position": {
-        "lat": "52.3698764708058",
-        "lng": "18.175359392810357"
-      },
-      "id": 98443221
     },
     {
       "cityName": "Linkoping",
@@ -112,18 +76,6 @@
       "cityName": "Lemland",
       "country": "Aland Islands",
       "emoji": "🇦🇽",
-      "date": "2024-01-12T17:56:52.497Z",
-      "notes": "",
-      "position": {
-        "lat": "59.98891523188431",
-        "lng": "19.998212524327855"
-      },
-      "id": 98443225
-    },
-    {
-      "cityName": "Lemland",
-      "country": "Aland Islands",
-      "emoji": "🇦🇽",
       "date": "2024-01-29T21:10:34.064Z",
       "notes": "",
       "position": {
@@ -131,6 +83,42 @@
         "lng": "20.004043579101566"
       },
       "id": 98443226
+    },
+    {
+      "cityName": "Lemland",
+      "country": "Aland Islands",
+      "emoji": "🇦🇽",
+      "date": "2024-01-30T11:40:19.732Z",
+      "notes": "",
+      "position": {
+        "lat": "60.05661584530574",
+        "lng": "20.15579223632813"
+      },
+      "id": 98443227
+    },
+    {
+      "cityName": "Warsaw",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-01-30T12:19:37.745Z",
+      "notes": "awesome",
+      "position": {
+        "lat": "52.2308031091948",
+        "lng": "21.02806422381174"
+      },
+      "id": 98443229
+    },
+    {
+      "cityName": "Kyiv",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-01-30T12:23:39.188Z",
+      "notes": "",
+      "position": {
+        "lat": "50.44976998352933",
+        "lng": "30.542252740295424"
+      },
+      "id": 98443230
     }
   ]
 }
